@@ -1,5 +1,6 @@
 Instruction for deploying this site to the server
 ------------------------------------
 
-
-Lorem ipsum dolor sit amert, cosectetur adipiscing elit .Ut rhoncus feugiat orci nec auctor. Quisque venenatis lacus ac feugiat vestibulam
+Content Goes HERE ****
+Lorem ipsum dolor sit amert, cosectetur adipiscing elit .
+Ut rhoncus feugiat orci nec auctor. Quisque venenatis lacus ac feugiat vestibulam
